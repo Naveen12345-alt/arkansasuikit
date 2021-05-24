@@ -1,10 +1,11 @@
 run, e.g.,
-     npm i arkansasuikit
+
+      `npm i arkansasuikit`
 
 do, e.g.,
 
-     import {Button} from arkansasuikit
+     `import {Button} from arkansasuikit`
 
+use, e.g.,
 
-use, e.g., 
-     <Button>New Button</Button>
+     `<Button>New Button</Button>`

@@ -1,9 +1,3 @@
-import {Button} from "./Button/Button"
+import {Button} from "./button/Button"
 
-const returnLibrary = () => {
-  return {
-    Button: Button,
-    // you can add here other components that you want to export
-  }
-}
-export default returnLibrary()
+export {Button}

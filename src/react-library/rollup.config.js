@@ -5,7 +5,7 @@ import sourcemaps from "rollup-plugin-sourcemaps"
 const autoprefixer = require("autoprefixer")
 
 // the entry point for the library
-const input = "src/index.js"
+const input = "./src/index.js"
 
 //
 var MODE = [

@@ -1,10 +1,10 @@
-run 
+run, e.g.,
      npm i arkansasuikit
 
-do
+do, e.g.,
 
      import {Button} from arkansasuikit
 
 
-use 
+use, e.g., 
      <Button>New Button</Button>

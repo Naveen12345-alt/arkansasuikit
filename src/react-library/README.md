@@ -1,8 +1,10 @@
-run npm i arkansasuikit
+run 
+     npm i arkansasuikit
 
 do
 
      import {Button} from arkansasuikit
 
 
-use <Button>New Button</Button>
+use 
+     <Button>New Button</Button>
